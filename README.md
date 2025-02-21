@@ -17,7 +17,7 @@ Feel free to explore my repositories, projects, and contributions below. If you'
 - **Platforms**: Mobile (iOS & Android), Web, Desktop
 
 ### UI/UX Design
-- **Tools**: Figma, Adobe XD, Sketch, Photoshop
+- **Tools**: Figma, Adobe XD, Sketch
 - **Design Principles**: User-Centered Design, Accessibility, Responsive Design
 - **Prototyping & Wireframing**: High-fidelity prototypes, interactive mockups
 
